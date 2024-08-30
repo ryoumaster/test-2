@@ -1,0 +1,4 @@
+Para executar os codigos é necessário instalar o prompt-sync
+Para instalar o prompt-sync abra o terminal do vscode e digite npm install prompt-sync
+é necessário o node instalado.
+para executar digite no terminal node nome_do_arquivo.js exemplo: node 1.js
